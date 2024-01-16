@@ -10,7 +10,7 @@ public class Main {
         System.out.println(pubStatic.toString());
 
         System.out.println("ENUM");
-        System.out.println(EnumSingleton.INSTANCE.toString());
+        System.out.println(EnumSingleton.INSTANCE);
 
     }
 }
