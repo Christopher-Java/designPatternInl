@@ -1,5 +1,6 @@
 public enum EnumSingleton {
     INSTANCE;
+
     private int UID = 0;
     private int GID = 0;
     private String userName = "root";
